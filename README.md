@@ -13,11 +13,5 @@
 - 💬 Ask me about ...
 - ⚡ Fun fact: I love to travel and enjoy natural beauty.
 
-### Connect with me:
- 
-<br />
-
 ### Languages and Tools:
 ReactJs, JavaScript, TypeScript, NodeJS, NestJS, Express, PHP, Laravel, Yii, CakePHP, MySQL, MongoDB, Firebase, NextJS, Angular
- 
- 
