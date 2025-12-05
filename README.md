@@ -11,23 +11,13 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Learn new tech stack (Angular, AI, ML, adopt new methodologies).
 - 💬 Ask me about ...
-- 📫 How to reach me: [Twitter][twitter] [LinkedIn][linkedin]
 - ⚡ Fun fact: I love to travel and enjoy natural beauty.
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+ 
 <br />
 
 ### Languages and Tools:
 ReactJs, JavaScript, TypeScript, NodeJS, NestJS, Express, PHP, Laravel, Yii, CakePHP, MySQL, MongoDB, Firebase, NextJS, Angular
-<br />
-<br />
-
-[twitter]: https://x.com/web_engr_atta 
-[youtube]: https://www.youtube.com/@AttaUrRehman27 
-[instagram]: https://www.instagram.com/attaurrehman27 
-[linkedin]: https://www.linkedin.com/in/attaurrehman 
+ 
+ 
