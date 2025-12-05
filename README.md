@@ -1,8 +1,5 @@
 ### Hi there, I'm Atta Ur Rehman - aka Atti 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/web_engr_atta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmuh-atta&screen_name=muh-atta)
-
-
 ## I'm a Tech Lead, Mentor and (SCRUM Certificated Processional)!
 
 -    I'm SCRUM [Certified Professional](https://bcert.me/bc/html/show-badge.html?b=kgnystsz).
